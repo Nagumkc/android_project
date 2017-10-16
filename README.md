@@ -19,3 +19,7 @@ User can track his weekly progress with intuitive graphs
 User can see the pie chart and bar graph for his daily intake
 
 User can view/update the historical data i.e. previous days calorie count/intake 
+
+Youtube Link
+https://www.youtube.com/watch?v=dpub2RgPROc
+
